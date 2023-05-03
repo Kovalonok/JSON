@@ -1,5 +1,6 @@
- {
-> "course_topics": [
+>{
+> "course_topics":
+>[
 > {
 > "topic":1,
 > "title": "terminal_linux"
@@ -10,7 +11,7 @@
 > },
 > {
 > "topic":3,
-  "title": "git"
+> "title": "git"
 > },
 > {
 > "topic":4,
@@ -26,3 +27,5 @@
 > }
 > ]
 > }
+
+
