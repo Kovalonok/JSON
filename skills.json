@@ -1,31 +1,11 @@
->{
-> "course_topics":
->[
-> {
-> "topic":1,
-> "title": "terminal_linux"
-> },
-> {
-> "topic":2,
-> "title": "sql"
-> },
-> {
-> "topic":3,
-> "title": "git"
-> },
-> {
-> "topic":4,
-> "title": "postman"
-> },
-> {
-> "tpic":5,
-> "title": "client_server_architecture"
-> },
-> {
-> "topic":6,
-> "title": "mobile_testing"
-> }
-> ]
-> }
 
+> {
+> "topic_1": "terminal_linux",
+> "topic_2": "sql",
+> "topic_3": "git",
+> "topic_4": "postman",
+> 
+> "topic_5": "client_server_architecture",
+> "topic_6": "mobile_testing"
+> }
 
