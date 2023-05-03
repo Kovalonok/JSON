@@ -1,0 +1,29 @@
+ {
+> "course_topics": [
+> {
+> "topic":1,
+> "title": "terminal_linux"
+> },
+> {
+> "topic":2,
+> "title": "SQL"
+> },
+> {
+> "topic":3,
+  "title": "GIT"
+> },
+> {
+> "topic":4,
+> "title": "Postman"
+> },
+> {
+> "tpic":5,
+> "title": "client_server_architecture"
+> },
+> {
+> "topic":6,
+> "title": "mobile_testing"
+> }
+> ]
+> }
+
